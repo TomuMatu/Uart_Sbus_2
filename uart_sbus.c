@@ -1,4 +1,4 @@
-//Tom Matunaga
+/*Tom Matunaga*/
 /*
   Copyright (c) Kouhei Ito
   MIT Licence
